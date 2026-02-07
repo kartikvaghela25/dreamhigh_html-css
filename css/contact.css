@@ -129,197 +129,76 @@ img{
     color: #1d3467;
     background-color: rgba(210, 212, 236, 0.633);
 }
-.py-100{
-    padding: 50px 0px;
-}
-.bg-25{
-     background-color: #941B1E05;
-     padding: 16px;
-     border-radius: 20px;
-}
-.w-25{
-    width: calc(25% - 24px);
-    /* width: 25%; */
-    margin: 12px;
 
-}
-.card-image{
-    width: 90px;
-    height: 90px;
-}
-.para{
-    font-size: 20px;
-    font-family: 'montserrat';
-    color: #1d3467;
-    margin: 12px 0px 0px;
-}
-.paaraa{
-    line-height: 25px;
-    font-size: 16px;
-    font-family: 'montserrat';
-    color:#585858;
-    margin: 12px 0px 0px;
-}
-.para2{
-    font-size: 18px;
-    font-family: 'montserrat';
-    color: #1d1d1d;
-    margin: 12px 0px 0px;
-}
-.w-50{
-    width: 50%;
-}
-.img50{
+.hero-bg{
+    background-image: url('/Images/Service.png');
+    background-size: cover;
+    background-repeat: no-repeat;
     width: 100%;
-    
+    background-position: center;
+    height: 335px;
 }
-.para6{
-    line-height: 40px;
-    font-size: 20px;
+.head{
+    font-size: 45px;
     font-family: 'montserrat';
-    color: #1d3467;
-    margin: 0px 0px 8px;
-    text-transform: uppercase;
+    color: #600b0d;
 }
-.para7{
-    line-height: 50px;
-    font-size: 35px;
-    font-family: 'montserrat';
-    color: #600B0D;
-}
-.para8{
-    line-height: 50px;
-    font-size: 35px;
-    font-family: 'montserrat';
-    color: #941B1E;
-    margin: 0px 0px 8px;
-}
-.para9{
-    line-height: 25px;
+.head2{
     font-size: 18px;
     font-family: 'montserrat';
-    color: #585858;
-    margin: 0px 0px 8px;
+    color: #1d3467;
+    margin: 16px 0px 0px;
 }
-.list{
-    font-size: 19px;
-    font-family: 'montserrat';
-    color:#1d3467;
-    padding: 24px 0px 0px;
+.diiv{
+    padding: 112px 0px;
+    text-align: center;
 }
-.py-64{
-    padding: 0px 64px 0px 40px;
-}
-.py-40{
-    padding: 70px 0px 0px 40px
-}
-.mapa{
-    background-color: #941B1E05;
-    margin: 56px 0px 0px;
-    padding: 40px 0px;
+.pad-mar{
+    margin: 0px 40px;
+    padding: 40px 80px;
 }
 .w-33{
     width: 33.33%;
-    margin: 0px 20px 0px 20px;
+    margin: 20px;
 }
-.c21{
-    padding: 20px 0px 0px 20px;
-    font-size: 22px;
-    font-family: 'montserrat';
-    color:#1d3467;
-}
-.c22{
-    line-height: 25px;
-    font-size: 18px;
-    font-family: 'montserrat';
-    color: #585858;
-}
-.mar{
-    margin: 0px 0px 32px !important;
-}
-.blog1{
-    font-size: 18px;
-    font-family: 'montserrat';
-    color:#1d3467;
-}
-.blog2{
-    font-size: 32px;
-    font-family: 'montserrat';
-    color: #941B1E;
-     margin-bottom: 70px;
-}
-.blog2 span{
-    color: #600b0d;
-    padding: 0px 0px 4px;
-    border-bottom: 2px solid #1d3467;
-}
-.w-25-2{
-    width: calc(25% - 28px);
-    width: 25%;
-    margin: 12px;
-    padding: 8px;
-    border: 2px solid #1d3467;
-    border-radius: 15px;
-}
- .image{
+.group-bg{
     width: 100%;
-    height: 170px;
-    border-radius: 10px;
- }
-.c31{
-    width: 200px;
-    font-size: 16px;
+    height: 592px;
+}
+.message{
+    font-size: 33px;
     font-family: 'montserrat';
     color: #1d3467;
-    background-color: #1D346720;
-    padding: 8px 16px;
-    margin: 24px 0px;
-    border-radius: 50px;
+    margin: 40px 20px;
 }
-.c32{
-    line-height: 30px;
-    font-size: 20px;
+.para1{
+    font-size: 22px;
     font-family: 'montserrat';
-    color: #1d1d1d;
+    color: #600b0d;
+    padding: 8px 0px;
 }
-.c33{
-    line-height: 30px;
-    font-size: 18px;
+.para2{
+    font-size: 16px;
     font-family: 'montserrat';
-    color: #404040;
-    padding: 0px 0px 16px;
+    color:#585858;
+    padding: 0px 0px 8px;
 }
-.c34{
-    text-align: center;
-    width: 140px;
+.para3{
+    border-bottom: 1px solid black;
+    font-weight: bold;
     font-size: 14px;
     font-family: 'montserrat';
-    color: #ffffff;
-    background-color: #1d3467;
-    padding: 8px 16px;
-    border-radius: 10px;
+    color: #000000;
 }
-.bg-sp{
-    width: 230px;
+.para3:hover{
+    color: #600b0d;
 }
-.button{
-    text-align: center;
-    font-size: 14px;
-    font-family: 'montserrat';
-   color: #ffffff;
-    background-color: #941B1E;
-    width: 140px;
-    padding: 12px 14px;
-    border-radius: 50px;
-    margin: 50px 0px 0px 690px;
+.divv{
+    padding: 0px 0px 30px 0px;
 }
-.button a{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-}
-.button:hover{
-    background-color: #600B0D;
+.map{
+    padding: 0px 10px 30px;
+    border-radius: 15px;
 }
 .wallpaper{
     width: 48px;
@@ -372,84 +251,24 @@ img{
 .ic{
     margin: 0px 0px 0px 60px;
 }
-.w-50{
-    width: 50%;
-    margin: 0px 20px;
-}
-.background{
-    background-color: #f9f3f3;
-    width: 100%;
-    height: 640px;
-    margin: 120px 0px 80px;
-}
-.bg1{
-    /* background-image: url('/Images/image\ 1.png'); */
-    /* background-size: cover; */
-    width: 256px;
-    height: 232px;
-    margin: 50px 0px 0px 150px;
-}
-.bg2{
-    width: 256px;
-    height: 232px;
-     margin: 90px 0px 0px 30px;
-}
-.bg{
-    width: 198px;
-    height: 198px;
-    margin: 65px -180px 0px -20px;
-}
-.bg3{
-    width: 487px;
-    height: 355px;
-    margin: -60px 0px 0px 190px;
-}
-/* .bg1 ,
-.bg2 ,
-.bg3:hover{
-    transform: scale(1.1);
-} */
-.about1{
-    font-size: 20px;
-    font-family: 'montserrat';
-    color: #1d3467;
-    margin: 120px 0px 0px;
-}
-.about2{
-    font-size: 47px;
-    font-family: 'montserrat';
-    color: #941b1e;
-    margin: 20px 0px 0px;
-}
-.about2 span{
-    color: #600B0D;
-}
-.about3{
-    line-height: 25px;
+.blog1{
     font-size: 18px;
     font-family: 'montserrat';
-    color: #585858;
-    margin: 20px 0px 0px;
+    color:#1d3467;
 }
-.about4{
-    text-transform: uppercase
-    ;
-    font-size: 22px;
+.blog2{
+    font-size: 32px;
     font-family: 'montserrat';
-    color: #1d3467;
-    margin: 20px 0px 0px;
+    color: #941B1E;
+     margin-bottom: 70px;
 }
-.about5{
-    margin: 20px 0px 0px;
-    font-size: 18px;
-    font-family: 'montserrat';
-    color: #585858;
+.blog2 span{
+    color: #600b0d;
+    padding: 0px 0px 4px;
+    border-bottom: 2px solid #1d3467;
 }
-.right-m{
-    margin-right: 50px;
-}
-.line-h{
-    line-height: 25px;
+.w-25{
+    width: 25%;
 }
 .my-10{
     margin: 50px 0px;
